@@ -1,0 +1,1 @@
+  VARIABLE "base", BASE # ( -- addr )
