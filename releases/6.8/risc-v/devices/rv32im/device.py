@@ -1,0 +1,29 @@
+
+MCUREGS = {
+
+    "GPIOBASE": "$10012000",
+    "GPIO_VALUE" : "$1001200",
+    "GPIO_INPUT_EN" : "$1001204",
+    "GPIO_OUTPUT_EN": "$1001208",
+    "GPIO_PORT"     : "$100120C",
+    "GPIO_PUE"      : "$1001210",
+    "GPIO_IOF_EN"   : "$1001238",
+    "GPIO_IOF_SEL"  : "$100123C",
+    "GPIO_OUT_XOR"  : "$1001240",
+
+    "UART0BASE" : "$10013000",
+    "UART0_TXDATA":"$1001300",
+    "UART0_RXDATA":"$1001304",
+    "UART0_TXCTRL":"$1001308",
+    "UART0_RXCTRL":"$100130C",
+    "UART0_IE"    :"$1001310",
+    "UART0_IP"    :"$1001314",
+    "UART0_DIV"   :"$1001318",
+
+    "PRCI_BASE" : "$10008000",
+    "PRCI_HFROSCCFG":"$1000800",
+    "PRCI_HFXOSCCFG":"$1000804",
+    "PRCI_PLLCFG"   :"$1000808",
+    "PRCI_PLLDIV"   :"$100080C",
+    "PRCI_PROCMONCFG":"$10008F0"
+}

@@ -1,0 +1,2 @@
+COLON "u.", UDOT
+.word  XT_ZERO, XT_UDDOT, XT_EXIT

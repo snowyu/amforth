@@ -1,0 +1,3 @@
+
+ENVIRONMENT "version", FORTHVERSION
+    .word XT_DOLITERAL, 68, XT_EXIT

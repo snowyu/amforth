@@ -1,0 +1,5 @@
+
+ENVIRONMENT "cpu", CPU
+
+  .word XT_DOLITERAL,RAM_lower_UNAME_BUF, XT_COUNT0
+  .word XT_EXIT
