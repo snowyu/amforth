@@ -1,0 +1,4 @@
+
+ENVIRONMENT "board", BOARD
+  .word XT_DOLITERAL,RAM_lower_UNAME_BUF+260, XT_COUNT0
+  .word XT_EXIT

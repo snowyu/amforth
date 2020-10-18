@@ -1,0 +1,2 @@
+
+CONSTANT "bl", BL, 32

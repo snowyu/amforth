@@ -1,0 +1,2 @@
+
+DEFER "wlscope", WLSCOPE, XT_GET_CURRENT

@@ -1,0 +1,2 @@
+
+VALUE "current", CURRENT, XT_RAM_WORDLIST

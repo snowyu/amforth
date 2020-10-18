@@ -1,0 +1,1 @@
+  DEFER "emit?",EMITQ, XT_SERIAL_EMITQ
